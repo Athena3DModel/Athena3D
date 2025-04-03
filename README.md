@@ -1,7 +1,7 @@
 # Athena3D - Revolutionary AI-Powered 3D NFT Creation Platform
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Athena3D" alt="Athena3D Banner" width="800"/>
+  <img src="./Athena3D.png" alt="Athena3D Logo" width="200"/>
   <br/>
   <br/>
   <a href="http://www.athena3d.online" target="_blank">
